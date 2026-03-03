@@ -1,0 +1,20 @@
+manifestVersion: 1
+
+id: andre-seerr
+category: media
+name: Seerr
+version: "latest"
+tagline: The successor to Overseerr
+
+description: >-
+  Seerr is the continuation of Overseerr and Jellyseerr.
+  Install this if you want continued updates and development.
+
+developer: Seerr Team
+website: https://github.com/seerr-team/seerr
+repo: https://github.com/seerr-team/seerr
+support: https://github.com/seerr-team/seerr/issues
+port: 5055
+gallery: []
+defaultUsername: ""
+defaultPassword: ""
