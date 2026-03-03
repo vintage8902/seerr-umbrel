@@ -18,3 +18,4 @@ port: 5055
 gallery: []
 defaultUsername: ""
 defaultPassword: ""
+icon: https://github.com/vintage8902/seerr-umbrel/blob/master/andre-seerr/icon.svg
