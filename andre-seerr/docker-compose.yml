@@ -13,5 +13,7 @@ services:
     restart: on-failure
     environment:
       - TZ=Europe/Oslo
+      - PUID=1000
+      - PGID=1000
     volumes:
-      - ${APP_DATA_DIR}/data/config:/app/config
+      - ${APP_DATA_DIR}/config:/app/config
